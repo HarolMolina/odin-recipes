@@ -1,0 +1,11 @@
+* { * {
+    box-sizing: border-box;
+  } }
+
+.tittle { text-align: center;
+font-family: 'Courier New', Courier, monospace;
+color: white;
+background-color: steelblue;
+}
+body { background-color: aquamarine; }
+.recetas {font-family: fantasy; }
